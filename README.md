@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Gabrielle 👋
 
 <!--
 **Gabicle/Gabicle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Backend-leaning full-stack developer who builds
+
+## 🔧 Tech I work with
+- **Languages:** Java · C# / .NET · Python
+- **Focus:** Backend systems, APIs, and full-stack development
+
+## 🚀 Currently
+- Building side projects in .NET to explore new ideas (currently trying to make a simple formula engine)
+- also expanding application security knowledge when i can
+
+
+## 📫 How to reach me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabrielle-blue?style=flat&logo=linkedin)](https://linkedin.com/in/gabicle)
