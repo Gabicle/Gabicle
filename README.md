@@ -21,7 +21,7 @@ Backend-leaning full-stack developer who builds
 - **Focus:** Backend systems, APIs, and full-stack development
 
 ## 🚀 Currently
-- Building side projects in .NET to explore new ideas (currently trying to make a simple formula engine)
+- In my .NET era (currently trying to make a simple formula engine)
 - also expanding application security knowledge when i can
 
 
