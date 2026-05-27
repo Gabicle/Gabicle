@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Backend-leaning full-stack developer who builds
 
 ## 🔧 Tech I work with
-- **Languages:** Java · C# / .NET · Python
+- **Languages:** Java · C# / .NET · Python · NodeJS
 - **Focus:** Backend systems, APIs, and full-stack development
 
 ## 🚀 Currently
