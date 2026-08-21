@@ -18,11 +18,11 @@ Backend-leaning full-stack developer who builds
 
 ## 🔧 Tech I work with
 - **Languages:** Java · C# / .NET · Python · NodeJS
-- **Focus:** Backend systems, APIs, and full-stack development
+- **Focus:** Backend systems, APIs, full-stack development, appsec & devsecops
 
 ## 🚀 Currently
-- In my .NET era (currently trying to make a simple formula engine)
-- also expanding application security knowledge when i can
+- expanding application security knowledge when i can
+  - 🛡️ [crapi-secure-delivery](https://github.com/Gabicle/crapi-secure-delivery) — securing the delivery pipeline for crAPI (Completely Ridiculous API)
 
 
 ## 📫 How to reach me
