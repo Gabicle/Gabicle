@@ -23,6 +23,7 @@ Backend-leaning full-stack developer who builds
 ## 🚀 Currently
 - expanding application security knowledge when i can
   - 🛡️ [crapi-secure-delivery](https://github.com/Gabicle/crapi-secure-delivery) — securing the delivery pipeline for crAPI (Completely Ridiculous API)
+  - 🐐 [cicd-goat-writeups](https://github.com/Gabicle/cicd-goat-writeups) — exploiting and remediating OWASP Top 10 CI/CD Security Risks with CICD-Goat
 
 
 ## 📫 How to reach me
